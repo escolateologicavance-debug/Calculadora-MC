@@ -8,21 +8,19 @@
   "scope": "/",
   "short_name": "SYNCHRO - MC",
   "start_url": "/",
-  "theme_color": "#ffffff",
-  "icons": [
+  "theme_color": "#ffffff", 
+  "icons": [                  
     {
-      "src": "https://i.imgur.com/1oY9JmI.jpeg",
-      "type": "image/jpeg",
-      "sizes": "1300x1600",
-      "isSquare": false,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": true,
-      "width": 1300,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "synchro.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "synchro.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
-  ],
-  "id": "Calculadora MC-SYNCHRO"
+  ], 
+  "id": "MC-SYNCHRO-P11"
+
 }
