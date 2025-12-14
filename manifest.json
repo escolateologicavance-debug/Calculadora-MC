@@ -1,12 +1,27 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "hsl(0, 0%, 98%)",
+  "description": "Calcule seu Medidor de Coerência (MC) e frequência P11. Gilberto Moreira - Psicanalista Clínico.",
   "dir": "ltr",
   "display": "standalone",
   "name": "escolateologicavance-debug.github",
   "orientation": "any",
-  "scope": "/Calculadora-MC-P11/",
+  "scope": "/",
   "short_name": "escolateologicavance-debug.github",
-  "start_url": "index.html",
-  "theme_color": "#ffffff",
-  "lang": "pt"
+  "start_url": "/",
+  "theme_color": "hsl(0, 10%, 10%)",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/1oY9JmI.jpeg",
+      "type": "image/jpeg",
+      "sizes": "1300x1600",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 1300,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
 }
