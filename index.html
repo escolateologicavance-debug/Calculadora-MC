@@ -174,8 +174,19 @@ function limpar() {
 }
 </script>
 
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            // Este código registra o seu Service Worker
+            navigator.serviceWorker.register('/sw.js'); 
+        });
+    }
+</script>
+
 </body>
 </html>
+
+
 
 
 
