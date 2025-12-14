@@ -1,14 +1,14 @@
 {
-  "background_color": "hsl(0, 0%, 98%)",
+  "background_color": "#ffffff",
   "description": "Calcule seu Medidor de Coerência (MC) e frequência P11. Gilberto Moreira - Psicanalista Clínico.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "escolateologicavance-debug.github",
+  "name": "Calculadora MC-SYNCHRO",
   "orientation": "any",
   "scope": "/",
-  "short_name": "escolateologicavance-debug.github",
+  "short_name": "SYNCHRO - MC",
   "start_url": "/",
-  "theme_color": "hsl(0, 10%, 10%)",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "https://i.imgur.com/1oY9JmI.jpeg",
