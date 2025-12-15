@@ -3,11 +3,11 @@
   "description": "Calcule seu Medidor de Coerência (MC) e frequência P11. Gilberto Moreira - Psicanalista Clínico.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Calculadora MC-SYNCHRO",
+  "name": "Calculadora-MC",
   "orientation": "any",
-  "scope": "/Metodo-SYNCHRO/",
+  "scope": "/Calculadora/",
   "short_name": "SYNCHRO - MC",
-  "start_url": "/Metodo-SYNCHRO/"
+  "start_url": "/Calculadora-MC/"
 ,
   "theme_color": "#ffffff", 
   "icons": [                  
