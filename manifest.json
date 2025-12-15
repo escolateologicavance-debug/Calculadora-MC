@@ -5,9 +5,9 @@
   "display": "standalone",
   "name": "Calculadora MC-SYNCHRO",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/Metodo-SYNCHRO/",
   "short_name": "SYNCHRO - MC",
-  "start_url": "/",
+  "start_url": "Metodo-SYNCHRO/",
   "theme_color": "#ffffff", 
   "icons": [                  
     {
