@@ -5,23 +5,21 @@
   "display": "standalone",
   "name": "Calculadora-MC",
   "orientation": "any",
-  "scope": "/Calculadora/",
+  "scope": "/Calculadora-MC/",
   "short_name": "SYNCHRO - MC",
-  "start_url": "/Calculadora-MC/"
-,
-  "theme_color": "#ffffff", 
-  "icons": [                  
+  "start_url": "/Calculadora-MC/",
+  "theme_color": "#ffffff",
+  "icons": [
     {
-      "src": "synchro.png",
+      "src": "/Calculadora-MC/synchro.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "synchro.png",
+      "src": "/Calculadora-MC/synchro.png",
       "type": "image/png",
       "sizes": "512x512"
     }
-  ], 
+  ],
   "id": "MC-SYNCHRO-P11"
-
 }
